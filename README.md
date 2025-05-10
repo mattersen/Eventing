@@ -1,2 +1,2 @@
-# Halau_Monitor
-Monthly web scraper for finding updated events
+# Eventing
+Web scraper for finding updated events
